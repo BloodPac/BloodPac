@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI, AV Technology, Computer Vision, and Algotrading
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me, contact me on discord @Jel#2178
+- 📫 How to reach me, contact me on LinkedIn @ashammari1
 
 <!---
 BloodPac/BloodPac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
