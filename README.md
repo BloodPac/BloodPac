@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BloodPac
+- 👋 Hi, I’m @Jellerr
 - 👀 I’m interested in ML/AI, AV Technology, Computer Vision, and Algotrading
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects
