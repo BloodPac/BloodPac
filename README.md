@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jellerr
-- 👀 I’m interested in ML/AI, AV Technology, Computer Vision, and Algotrading
-- 🌱 I’m currently studying Math, Physics, and Computer Science
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me, contact me on LinkedIn @ashammari1
+- Hello, I’m @Jellerr
 
 <!---
 BloodPac/BloodPac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
